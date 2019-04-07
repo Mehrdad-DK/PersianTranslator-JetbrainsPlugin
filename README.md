@@ -1,0 +1,1 @@
+# PersianTranslator-JetbrainsPlugin
